@@ -1,0 +1,14 @@
+[2026-08-05 11:55:22] [INFO] =============================================
+[2026-08-05 11:55:22] [INFO] DWP Temp File Cleanup - RunId: 20260805_115522
+[2026-08-05 11:55:22] [INFO] Mode: CLEANUP
+[2026-08-05 11:55:22] [INFO] =============================================
+[2026-08-05 11:55:22] [INFO] Target paths: C:\Users\labuser\AppData\Local\Temp\2, C:\Windows\Temp
+[2026-08-05 11:55:22] [INFO] Cutoff date (only files last written before this are eligible): 08/05/2026 11:55:22
+[2026-08-05 11:55:22] [WARN] Locked, skipping: C:\Users\labuser\AppData\Local\Temp\2\3d1f55d5-5184-4fd7-832b-5727d1649d8b.tmp
+[2026-08-05 11:55:22] [INFO] Deleted (quarantined): C:\Users\labuser\AppData\Local\Temp\2\4c0f510a-7eee-469d-98f3-8e602dd04926.tmp
+[2026-08-05 11:55:22] [INFO] Deleted (quarantined): C:\Users\labuser\AppData\Local\Temp\2\exthost-b1c0b6.cpuprofile
+[2026-08-05 11:55:22] [INFO] Deleted (quarantined): C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+[2026-08-05 11:55:22] [INFO] Deleted (quarantined): C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+[2026-08-05 11:55:22] [INFO] Manifest written: C:\Users\labuser\Documents\TRAINING\DAY 3\CleanupData\Quarantine\Manifest_20260805_115522.csv
+[2026-08-05 11:55:22] [INFO] ===== Summary: RunId=20260805_115522 Mode=CLEANUP Scanned=5 Deleted=4 LockedSkipped=1 Errors=0 SpaceFreedMB=0.05 =====
+[2026-08-05 11:55:22] [INFO] DWP Temp File Cleanup finished (RunId: 20260805_115522)

@@ -1,0 +1,18 @@
+[2026-08-05 16:27:36] [INFO] =============================================
+[2026-08-05 16:27:36] [INFO] DWP Large File Finder
+[2026-08-05 16:27:36] [INFO] Target folder: C:\Users\labuser
+[2026-08-05 16:27:36] [INFO] Top: 10
+[2026-08-05 16:27:36] [INFO] =============================================
+[2026-08-05 16:27:41] [INFO] Largest 10 file(s) found:
+[2026-08-05 16:27:41] [INFO] 5502c37eb91d56bb_0 | C:\Users\labuser\AppData\Roaming\Code\WebStorage\1\CacheStorage\54d68bad-3788-4cd4-abe1-dc00ee1ee79e | 24.65 MB | Modified: 8/5/2026 10:17:41 AM
+[2026-08-05 16:27:41] [INFO] widevinecdm.dll | C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data\WidevineCdm\4.10.3050.1\_platform_specific\win_x64 | 21.64 MB | Modified: 6/15/2026 9:38:58 PM
+[2026-08-05 16:27:41] [INFO] 7b178e210609ce91b858acfd7f2d9456ce71f6a45e773862cb3c3efa3a6ab999 | C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data\component_crx_cache | 16.7 MB | Modified: 7/14/2026 7:00:38 PM
+[2026-08-05 16:27:41] [INFO] data_3 | C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data\Default\Cache\Cache_Data | 16.01 MB | Modified: 8/5/2026 10:47:09 AM
+[2026-08-05 16:27:41] [INFO] WebCacheV01.dat | C:\Users\labuser\AppData\Local\Microsoft\Windows\WebCache | 14 MB | Modified: 8/5/2026 4:26:05 PM
+[2026-08-05 16:27:41] [INFO] 2cce3fd67810fb5ce74588a9ea11a8bd872e3c09a932cc72caa11ee92b2a5db9 | C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data\component_crx_cache | 12.45 MB | Modified: 8/3/2026 8:50:28 AM
+[2026-08-05 16:27:41] [INFO] d8236aa739419ecd_0 | C:\Users\labuser\AppData\Roaming\Code\CachedData\e4c7e7b1d6d060162f4aa7f8225271b67ce1df75\chrome\js | 11.9 MB | Modified: 8/3/2026 8:49:37 AM
+[2026-08-05 16:27:41] [INFO] aw-watcher-window_2026-08-03T15-05-06.log.1 | C:\Users\labuser\AppData\Local\activitywatch\activitywatch\Logs\aw-watcher-window | 10 MB | Modified: 8/3/2026 6:35:51 PM
+[2026-08-05 16:27:41] [INFO] aw-watcher-window_2026-08-03T08-49-50.log | C:\Users\labuser\AppData\Local\activitywatch\activitywatch\Logs\aw-watcher-window | 8.3 MB | Modified: 8/3/2026 12:41:37 PM
+[2026-08-05 16:27:41] [INFO] asset | C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data\Edge Entity Extraction\2026.6.30.7\pre-release\onnx.product.desktop.en\3.2.3 | 8.02 MB | Modified: 6/30/2026 9:49:06 PM
+[2026-08-05 16:27:41] [INFO] ===== Summary: TotalFilesScanned=3561 LargestFileFound=5502c37eb91d56bb_0 (24.65 MB) TotalSizeReportedMB=143.67 Errors=0 =====
+[2026-08-05 16:27:41] [INFO] Log file location: C:\Users\labuser\Documents\TRAINING\DAY 3\LargeFileFinderData\Logs\LargeFileFinder_20260805_162736.log

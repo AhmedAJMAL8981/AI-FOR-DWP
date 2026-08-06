@@ -1,0 +1,6 @@
+[2026-08-05 11:48:00] [INFO] =============================================
+[2026-08-05 11:48:00] [INFO] DWP Temp File Cleanup - RunId: 20260805_114800
+[2026-08-05 11:48:00] [INFO] Mode: ROLLBACK
+[2026-08-05 11:48:00] [INFO] =============================================
+[2026-08-05 11:48:00] [WARN] Quarantine path 'C:\Users\labuser\Documents\TRAINING\DAY 3\CleanupData\Quarantine' not found. Nothing to roll back.
+[2026-08-05 11:48:00] [INFO] DWP Temp File Cleanup finished (RunId: 20260805_114800)

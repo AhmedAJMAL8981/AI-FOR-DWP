@@ -1,0 +1,13 @@
+[2026-08-05 11:54:57] [INFO] =============================================
+[2026-08-05 11:54:57] [INFO] DWP Temp File Cleanup - RunId: 20260805_115457
+[2026-08-05 11:54:57] [INFO] Mode: DRY RUN
+[2026-08-05 11:54:57] [INFO] =============================================
+[2026-08-05 11:54:57] [INFO] Target paths: C:\Users\labuser\AppData\Local\Temp\2, C:\Windows\Temp
+[2026-08-05 11:54:57] [INFO] Cutoff date (only files last written before this are eligible): 08/05/2026 11:54:57
+[2026-08-05 11:54:57] [WARN] Locked, skipping: C:\Users\labuser\AppData\Local\Temp\2\3d1f55d5-5184-4fd7-832b-5727d1649d8b.tmp
+[2026-08-05 11:54:57] [INFO] [DRY RUN] Would delete: C:\Users\labuser\AppData\Local\Temp\2\4c0f510a-7eee-469d-98f3-8e602dd04926.tmp (0 KB, LastWriteTime: 08/05/2026 08:41:46)
+[2026-08-05 11:54:57] [INFO] [DRY RUN] Would delete: C:\Users\labuser\AppData\Local\Temp\2\exthost-b1c0b6.cpuprofile (50.5 KB, LastWriteTime: 08/05/2026 10:47:45)
+[2026-08-05 11:54:57] [INFO] [DRY RUN] Would delete: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat (0 KB, LastWriteTime: 08/05/2026 08:37:58)
+[2026-08-05 11:54:57] [INFO] [DRY RUN] Would delete: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py (0.2 KB, LastWriteTime: 08/05/2026 08:37:58)
+[2026-08-05 11:54:57] [INFO] ===== Summary: RunId=20260805_115457 Mode=DRY RUN Scanned=5 Deleted=4 LockedSkipped=1 Errors=0 SpaceFreedMB=0.05 =====
+[2026-08-05 11:54:57] [INFO] DWP Temp File Cleanup finished (RunId: 20260805_115457)

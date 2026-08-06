@@ -1,0 +1,13 @@
+[2026-08-05 16:26:59] [INFO] =============================================
+[2026-08-05 16:26:59] [INFO] DWP Large File Finder
+[2026-08-05 16:26:59] [INFO] Target folder: c:\Users\labuser\Documents\TRAINING\DAY 3
+[2026-08-05 16:26:59] [INFO] Top: 5
+[2026-08-05 16:26:59] [INFO] =============================================
+[2026-08-05 16:26:59] [INFO] Largest 5 file(s) found:
+[2026-08-05 16:26:59] [INFO] TempCleanup_20260805_115109.log | C:\Users\labuser\Documents\TRAINING\DAY 3\CleanupData\Logs | 0.02 MB | Modified: 8/5/2026 11:51:09 AM
+[2026-08-05 16:26:59] [INFO] TempCleanup_20260805_114016.log | C:\Users\labuser\Documents\TRAINING\DAY 3\CleanupData\Logs | 0.02 MB | Modified: 8/5/2026 11:40:17 AM
+[2026-08-05 16:26:59] [INFO] TempCleanup_20260805_113819.log | C:\Users\labuser\Documents\TRAINING\DAY 3\CleanupData\Logs | 0.02 MB | Modified: 8/5/2026 11:38:21 AM
+[2026-08-05 16:26:59] [INFO] StartupProgramAuditor.ps1 | C:\Users\labuser\Documents\TRAINING\DAY 3 | 0.02 MB | Modified: 8/5/2026 4:23:44 PM
+[2026-08-05 16:26:59] [INFO] Clear-EndpointTempFiles.ps1 | C:\Users\labuser\Documents\TRAINING\DAY 3 | 0.01 MB | Modified: 8/5/2026 11:36:17 AM
+[2026-08-05 16:27:00] [INFO] ===== Summary: TotalFilesScanned=22 LargestFileFound=TempCleanup_20260805_115109.log (0.02 MB) TotalSizeReportedMB=0.08 Errors=0 =====
+[2026-08-05 16:27:00] [INFO] Log file location: C:\Users\labuser\Documents\TRAINING\DAY 3\LargeFileFinderData\Logs\LargeFileFinder_20260805_162659.log

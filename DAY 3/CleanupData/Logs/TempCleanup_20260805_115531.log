@@ -1,0 +1,11 @@
+[2026-08-05 11:55:31] [INFO] =============================================
+[2026-08-05 11:55:31] [INFO] DWP Temp File Cleanup - RunId: 20260805_115531
+[2026-08-05 11:55:31] [INFO] Mode: ROLLBACK
+[2026-08-05 11:55:31] [INFO] =============================================
+[2026-08-05 11:55:31] [INFO] Rolling back using manifest: C:\Users\labuser\Documents\TRAINING\DAY 3\CleanupData\Quarantine\Manifest_20260805_115522.csv
+[2026-08-05 11:55:31] [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\4c0f510a-7eee-469d-98f3-8e602dd04926.tmp
+[2026-08-05 11:55:31] [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\exthost-b1c0b6.cpuprofile
+[2026-08-05 11:55:32] [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+[2026-08-05 11:55:32] [INFO] Restored: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+[2026-08-05 11:55:32] [INFO] ===== Rollback summary: Restored=4 Skipped=0 Failed=0 =====
+[2026-08-05 11:55:32] [INFO] DWP Temp File Cleanup finished (RunId: 20260805_115531)
