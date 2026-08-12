@@ -1,0 +1,5 @@
+# Executive Summary: Win11 Migration Update
+
+Overall, the migration has settled down well for most end users. The early issues that caused the most disruption, such as sign-in problems, account lockouts, slow logins, missing files, and VPN drops, have largely improved or been resolved. Many staff are now saying the new laptops are faster and the rollout has become smoother than expected. In plain terms, the move has gone from a bumpy start to a much steadier picture for most people.
+
+A few issues still need attention. The floor 3 printer remains unresolved and is now causing repeated frustration because people are still having to work around it. A new issue has also appeared with Excel crashing on larger files, which is affecting day-to-day finance work and needs prompt follow-up. The team is monitoring both issues closely, and the next step is to keep focused on these remaining problem areas while making sure the earlier login and file-access issues stay fixed.
